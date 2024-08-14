@@ -2,5 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2702.ts
-#http://fx-lv.com:8080/play/live.php?mac=00:1A:79:C0:B7:20&stream=59064&extension=ts
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:C0:B7:20&stream=59064&extension=ts
